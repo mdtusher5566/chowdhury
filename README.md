@@ -17,9 +17,8 @@ cybersecurity-portfolio/
 │   └── Final_Project_Report.pdf   (your 5-page report)
 │
 ├── Evidence/
-│   ├── governance_regulation.png  (screenshot you uploaded)
-│   ├── offensive_security_intro.png
-│   └── profile_dashboard.png
+Screenshot 2025-10-17 151905.png
+Screenshot 2025-10-17 151944.png
 │
 └── Reflections/
     └── learning_reflection.md
